@@ -13,7 +13,7 @@
 
 **ZAP rename**
 
-    /examples/chef/sample_app_util/sample_app_util.py zap --rename-file examples/chef/devices/rootnode_waterleakdetector.zap
+    ./examples/chef/sample_app_util/sample_app_util.py zap --rename-file examples/chef/devices/rootnode_waterleakdetector.zap
     Renamed from: examples/chef/devices/rootnode_waterleakdetector.zap to examples/chef/devices/rootnode_waterleakdetector_0b067acfa3.zap
 
 **Generate Matter file**
