@@ -11,6 +11,10 @@
     2024-08-27 13:22:48 root INFO    Done extracting.
     export ZAP_INSTALL_PATH=/home/ludovic/connectedhomeip/.zap/zap-v2024.08.14-nightly    
 
+**ZAP change device type dans clusters**
+
+    /scripts/tools/zap/run_zaptool.sh /home/ludovic/connectedhomeip/examples/chef/devices/template.zap
+
 **ZAP rename**
 
     ./examples/chef/sample_app_util/sample_app_util.py zap --rename-file examples/chef/devices/rootnode_waterleakdetector.zap
