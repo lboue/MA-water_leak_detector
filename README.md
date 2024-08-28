@@ -13,7 +13,7 @@
 
 **ZAP change device type dans clusters**
 
-    /scripts/tools/zap/run_zaptool.sh /home/ludovic/connectedhomeip/examples/chef/devices/template.zap
+    ./scripts/tools/zap/run_zaptool.sh /home/ludovic/connectedhomeip/examples/chef/devices/template.zap
 
 **ZAP rename**
 
